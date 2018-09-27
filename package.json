@@ -5,6 +5,7 @@
   "author": "Shawn Presser <shawnpresser@gmail.com>",
   "license": "MIT",
   "bin": {
+    "luvit-luvi": "./node_modules/.bin/luvi",
     "luvi": "./node_modules/.bin/luvi"
   },
   "dependencies": {
